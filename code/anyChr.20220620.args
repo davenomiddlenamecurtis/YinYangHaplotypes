@@ -1,0 +1,13 @@
+--vcf-spec /cluster/project9/bipolargenomes/popGen/20201028_CCDG_14151_B01_GRM_WGS_2020-08-05_chrCHR.recalibrated_variants.vcf.gz
+--add-chr 1
+--plink /share/apps/genomics/plink-1.9/plink
+--start-pos 1
+--end-pos 250000000
+--chunk-size 100000
+--separation 10
+--min-maf 0.1
+--keep-vcf 0
+--keep-plink-files 0
+--plink-args '--remove children.txt --biallelic-only --snps-only --real-ref-alleles'
+
+	  

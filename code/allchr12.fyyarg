@@ -1,0 +1,6 @@
+--dist-file-name /cluster/project9/bipolargenomes/popGen/results.allchr12.12.1.250000000.txt
+--test-name allchr12 
+--min-run 20 
+--max-dist 0.0015
+--separation 10
+

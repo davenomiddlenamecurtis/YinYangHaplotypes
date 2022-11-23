@@ -1,0 +1,5 @@
+--test-name MostSNPs.Het
+--keep-files
+--maf 0.05
+--summary-file MostSNPs.Het.txt
+
