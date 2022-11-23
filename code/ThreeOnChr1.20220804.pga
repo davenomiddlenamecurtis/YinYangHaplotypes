@@ -1,0 +1,7 @@
+--chr 1
+--start 105157841
+--end 105314270
+--maf 0.05
+--highlight First	105187841
+--highlight Last	105264270
+--test-name ThreeOnChr1.20220804

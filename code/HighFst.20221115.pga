@@ -1,0 +1,7 @@
+--chr X
+--start 64686373
+--end 64812316
+--maf 0.05
+--highlight First	64706373 
+--highlight Last	64792316 
+--test-name HighFst.20221115

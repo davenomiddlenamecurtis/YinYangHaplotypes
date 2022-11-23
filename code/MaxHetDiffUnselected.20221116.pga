@@ -1,0 +1,7 @@
+--chr 3
+--start 32619469
+--end 32626665
+--maf 0.05
+--highlight First	32620469  
+--highlight Last	32625665
+--test-name MaxHetDiffUnselected.20221116

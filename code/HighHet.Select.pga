@@ -1,0 +1,8 @@
+--chr 14
+--start 99522085
+--end 99585297 
+--maf 0.05
+--select 99555297
+--highlight First	99552085
+--highlight Last	99555297
+--test-name HighHet

@@ -1,0 +1,7 @@
+--chr 4
+--start 98041252
+--end 98172231
+--maf 0.05
+--highlight First	98071252
+--highlight Last	98142231
+--test-name MostSNPs.20220804

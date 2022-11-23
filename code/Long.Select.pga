@@ -1,0 +1,9 @@
+--chr 1
+--start 197581322	
+--end 197753997
+--maf 0.05
+--highlight First	197611322	
+--highlight Last	197723997
+--test-name Long
+--select 197611322
+--keep-files

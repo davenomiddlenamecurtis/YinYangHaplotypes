@@ -1,0 +1,4 @@
+--ref-gene-file /home/rejudcu/reference38/refseqgenes.hg38.20201113.sorted.onePCDHG.txt
+--test-name matchGenes.20220727
+--input-file /cluster/project9/bipolargenomes/yinYang/allChrsSummary.20220727.txt
+--gene-regions-file /home/rejudcu/yinYang/allGeneRegions.txt

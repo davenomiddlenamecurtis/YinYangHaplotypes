@@ -1,0 +1,8 @@
+--chr 4
+--start 10179985
+--end 10258810
+--maf 0.05
+--highlight First	10209985
+--highlight Last	10228810
+--select 10209985
+--test-name LowHet

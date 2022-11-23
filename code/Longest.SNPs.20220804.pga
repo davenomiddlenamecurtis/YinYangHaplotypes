@@ -1,0 +1,8 @@
+--chr 3
+--start 121026668
+--end 121355164
+--maf 0.05
+--highlight First	121056668
+--highlight Last	121325164
+--snps-to-use Longest.SNPs.txt
+--test-name Longest.SNPs.20220804

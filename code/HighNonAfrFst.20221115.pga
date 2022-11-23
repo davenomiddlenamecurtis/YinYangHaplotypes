@@ -1,0 +1,7 @@
+--chr X
+--start 74867205
+--end 74938396
+--maf 0.05
+--highlight First	74887205 
+--highlight Last	74918396
+--test-name HighNonAfrFst.20221115

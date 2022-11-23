@@ -1,0 +1,8 @@
+--chr 3
+--start 98248137
+--end 98254457
+--maf 0.05
+--highlight First	98249137 
+--highlight Last	98253457
+--test-name HighestHet.20221116
+--select 98249137

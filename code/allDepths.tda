@@ -1,0 +1,6 @@
+--input-file /cluster/project9/bipolargenomes/yinYang/allChrsSummary.20220718.txt
+--vcf-spec /cluster/project9/bipolargenomes/popGen/20201028_CCDG_14151_B01_GRM_WGS_2020-08-05_chrCHR.recalibrated_variants.vcf.gz
+--add-chr 1
+--test-name allDepths
+
+

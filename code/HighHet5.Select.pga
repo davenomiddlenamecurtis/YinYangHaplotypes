@@ -1,0 +1,8 @@
+--chr 5
+--start 171359397
+--end 171431166
+--maf 0.05
+--highlight First	171389397
+--highlight Last	171401166
+--select 171389397
+--test-name HighHet5
